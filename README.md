@@ -1,3 +1,3 @@
 # InteractiveDotPlot
 
-MultiSensory DotPlot for Protein Sequences Comparison, via Interactive Blast Algorithm.
+MultiSensory Dot Plot for Protein Sequences Comparison, via Interactive Blast Algorithm.
